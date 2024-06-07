@@ -91,3 +91,5 @@ To learn more about React Native, take a look at the following resources:
 - app icons
 - typography and theming, styling correct method should follow
 - update it regularly with best functions and practices as possible
+- add react native permission
+- add as much as utils possible
