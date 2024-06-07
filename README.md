@@ -93,3 +93,5 @@ To learn more about React Native, take a look at the following resources:
 - update it regularly with best functions and practices as possible
 - add react native permission
 - add as much as utils possible
+- add native module
+- create an ideal structure that can be followed to create an app
